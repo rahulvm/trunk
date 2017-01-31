@@ -13,3 +13,4 @@ a.txt is signed by master
 =======
 A.txt is edited in the branch created
 >>>>>>> branch1
+New task to merge branches in between
