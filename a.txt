@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
 
@@ -9,3 +10,6 @@
 
 
 a.txt is signed by master
+=======
+A.txt is edited in the branch created
+>>>>>>> branch1
